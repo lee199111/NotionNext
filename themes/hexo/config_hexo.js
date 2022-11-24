@@ -1,5 +1,5 @@
 const CONFIG_HEXO = {
-  HOME_BANNER_ENABLE: true,
+  HOME_BANNER_ENABLE: false,
   HOME_BANNER_GREETINGS: ['一只爬行的🦎', '勾搭上了一只行走的🐻', '，生下了一颗滚动的🍋', '一只爬行的🦎，勾搭上了一只行走的🐻，生下了一颗滚动的🍋'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: false, // 首页是否显示分类大图标按钮
